@@ -1,0 +1,16 @@
+USER
+1. Make a booking enquiry for activities - via "Whats On". (Auto email)
+2. What's On table has dynamic content.
+3. Price List has dynamic content
+4. Certain facilities are capable of automatic booking.
+5. Automatic bookings are paid for straight away.
+6. Other facilities have booking enquiries. (Auto email)
+7. Contact Us page has location and contact details. 
+8. User can get in touch with PVCC via a contact form. (Auto email)
+PVCC
+9. Can view all bookings made, on keystone and on facility calendar.
+10. Can add and edit the content on most pages using the keystone CMS.
+11. Create/edit manual bookings using keystone
+12. Old bookings are anonymised and archived. - GDPR Compliant
+13. Keystone bookings are synched to the Google Calendar. 
+14. The site is secured using HTTPS.
